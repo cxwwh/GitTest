@@ -14,5 +14,6 @@ public class Test {
         System.out.println("master-change");
         System.out.println("hot-fix-change");
         System.out.println("push_test");
+        System.out.println("cxwwh修改");
     }
 }
