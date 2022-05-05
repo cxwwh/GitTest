@@ -12,5 +12,6 @@ public class Test {
         System.out.println("checkout");
         System.out.println("hot-fix ");
         System.out.println("master-change");
+        System.out.println("hot-fix-change");
     }
 }
